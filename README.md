@@ -9,3 +9,7 @@ ReverseShell Linux/Windows
 
 - Le principe est simple, le shell est un moyen de communiquer par ligne de commande avec votre ordinateur, les commande sont écrite en local et s'execute en local sur votre machine.
 - Dans ce cas la, si vous faites une connexion entre deux machine et que l'une machine demande une commande a executer et que vous vous l'executer et que vous envoyer le retour de la commande a la machine avec la quel vous êtes connecter vous obtiendrez une reverse shell.
+
+# Example avec un gif trouver sur le web 
+
+[!Reverse Shell Exemple](https://nsa40.casimages.com/img/2020/02/15/200215073822332754.gif)
